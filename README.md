@@ -1,5 +1,5 @@
 # Algorithmes-stochastiques
-Les algorithmes sont des processus généralement déterministes, dans le sens ou pour une même initialisation, lancer l’algorithme deux fois donne le même résultat. Dans ce cours, nous allons parler d’algorithmes stochastiques, faisant appel à une modélisation aléatoire, voir utilisant de l’aléa au cours des itérations. Les algorithmes que nous aborderons sont les suivants :
+Les algorithmes sont des processus généralement déterministes, dans le sens ou pour une même initialisation, lancer l’algorithme plusieurs fois donne le même résultat. Nous allons parler d’algorithmes stochastiques, faisant appel à une modélisation aléatoire, voir utilisant de l’aléa au cours des itérations. Les algorithmes que nous aborderons sont les suivants :
 
 — L’algorithme de gradient stochastique, qui est un algorithme d’optimisation
 
